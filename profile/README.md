@@ -1,12 +1,12 @@
-## Hi there 👋
+# Frog Development 🐸
+- ¡Bienvenido a Frog Development! Somos una organización comprometida con el desarrollo de software, con un enfoque especializado en aplicaciones y herramientas para la comunidad de Minecraft. Nuestro objetivo principal es brindar soluciones innovadoras y de alta calidad que mejoren la experiencia de los jugadores y faciliten la administración de servidores. 🌟
 
-<!--
+# FrogLauncher 🐸
+- FrogLauncher es nuestro buque insignia: un lanzador de Minecraft diseñado para ofrecer una experiencia de juego fluida y personalizable. Con características únicas y una interfaz intuitiva, FrogLauncher se destaca como una herramienta imprescindible para los aficionados de Minecraft. 🚀
 
-**Here are some ideas to get you started:**
+# Soporte 🐸
+- Nuestro equipo de soporte está dedicado a garantizar una experiencia sin problemas para todos los usuarios de FrogLauncher. Si necesitas ayuda, tienes preguntas o encuentras algún problema, no dudes en ponerte en contacto con nosotros a través de nuestro sitio web o en nuestras redes sociales. 🌈
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+¡Gracias por elegir FrogLauncher y por ser parte de la comunidad de Frog Development! 🐸
+
+Sigue saltando hacia nuevas aventuras con FrogLauncher. 🌟🚀
